@@ -1,5 +1,10 @@
 # Daily Expense Tracker App
 
+### 🎥 Demo Video
+
+
+---
+
 ## Project Overview
 
 Daily Expense Tracker is a simple Flutter app for managing daily expenses.
@@ -338,12 +343,6 @@ Navigation is managed using GetX with smooth screen transitions.
 ```dart
 Transition.rightToLeft
 ```
-
-### Add / Edit Screen
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/31093890-0479-49c2-a544-6b564274e90d" width="100"/>
-</p>
 
 ## How To Run
 
