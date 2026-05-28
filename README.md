@@ -2,6 +2,8 @@
 
 ### 🎥 Demo Video
 
+https://github.com/user-attachments/assets/6c1acffc-b375-47c2-857d-d4cd2ffbb8d5
+
 
 ---
 
