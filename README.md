@@ -336,6 +336,8 @@ The app includes:
 Navigation is handled using GetX.
 
 Add/Edit screen opens with smooth right-to-left animation.
+<img width="300" alt="WhatsApp Image 2026-05-28 at 12 45 30 PM (1)" src="https://github.com/user-attachments/assets/31093890-0479-49c2-a544-6b564274e90d" />
+
 
 ```dart
 Transition.rightToLeft
