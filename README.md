@@ -5,6 +5,18 @@
 
 ---
 
+### 📸 Screenshots
+
+<p align="left">
+  <img width="200" alt="WhatsApp Image 2026-05-28 at 12 45 30 PM" src="https://github.com/user-attachments/assets/0a5319bd-eb6b-4bbf-bef6-983446cebfdd" />
+  <img width="200" alt="WhatsApp Image 2026-05-28 at 12 45 33 PM" src="https://github.com/user-attachments/assets/45d8dfd0-6fc8-4cec-a641-d982814fffcb" />
+<img width="200" alt="WhatsApp Image 2026-05-28 at 12 45 32 PM (1)" src="https://github.com/user-attachments/assets/6085ad15-1912-4a26-a22a-00832e572bf0" />
+<img width="200" alt="WhatsApp Image 2026-05-28 at 12 45 31 PM" src="https://github.com/user-attachments/assets/77efdec3-0dd6-49c8-9e86-331011d84d38" />
+<img width="200" alt="WhatsApp Image 2026-05-28 at 12 45 30 PM (1)" src="https://github.com/user-attachments/assets/e0cca003-166d-430f-86b1-3c2a48a2f642" />
+</p>
+
+---
+
 ## Project Overview
 
 Daily Expense Tracker is a simple Flutter app for managing daily expenses.
